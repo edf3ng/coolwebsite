@@ -1,0 +1,37 @@
+body{
+  margin-top: 80px;
+  margin-bottom: 80px;
+  font-family: "tahoma";
+  font-size: 40px;
+}
+
+.container div{
+  width: 100px;
+  height: 100px;
+  margin-left: auto;
+  text-align: center;
+  margin-right: auto;
+  background-color: #eeeff2;
+  border-top: 1px solid #687291;
+  margin-top: 10px;
+}
+
+div p{
+  position: relative;
+  top: -40%;
+}
+
+.container .grey{
+  background-color: #dfe1e7;
+}
+
+#F {
+  background-color: #687291;
+  border: 4px solid black;
+  text-align: center;
+}
+
+#F p{
+  position: relative;
+  top: -20%;
+}
